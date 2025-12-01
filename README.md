@@ -1,2 +1,2 @@
-# dev-sandbox qualifier
+# dev-sandbox
 dev sandbox qualifier 
